@@ -1,0 +1,13 @@
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\bin\Debug\CodeChallenge.PartLengthCalculation.exe.config
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\bin\Debug\CodeChallenge.PartLengthCalculation.exe
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\bin\Debug\CodeChallenge.PartLengthCalculation.pdb
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\bin\Debug\CodeChallenge.PartLengthCalculation.Answers.dll
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.csproj.AssemblyReference.cache
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.Properties.Resources.resources
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.UI.Main.resources
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.csproj.GenerateResource.cache
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.csproj.CoreCompileInputs.cache
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChal.14A20AAC.Up2Date
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.exe
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.pdb
+C:\Users\joseh\Downloads\Github\CodeChallenge.PartLengthCalculation\obj\Debug\CodeChallenge.PartLengthCalculation.exe.config
